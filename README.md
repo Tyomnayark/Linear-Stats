@@ -8,7 +8,7 @@ The Linear-Stats program reads data from a file specified as a command-line argu
 
 ## Usage
 
-To use the MATH-SKILLS project, follow these steps:
+To use the project, follow these steps:
 
 * Ensure you have Java installed on your system.
 * Import the project into your preferred Java development environment (vs code).
